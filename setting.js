@@ -1,31 +1,14 @@
  {
- "contactOwner": "Nomor ke 1 lu",
- "contactOwner2": "Nomor ke 2 lu", 
- "botName": "Nama Bot",
- "ownerName": "Nama lu",
+ "contactOwner": "-",
+ "contactOwner2": "6285723745866", 
+ "botName": "A17-MD",
+ "ownerName": "A",
  "sessionName": "session",
- "footer": "Nama Bot © 2022",
- "packname": "Seterah",
- "author": "Seterah",
+ "footer": " © ",
+ "packname": "©",
+ "author": "©",
  
- "youtube": "YouTube lu kalo ga punya kasih tanda min (-) ajah",
- "github": "Github lu",
- "instagram": "Instagram lu",
- "tiktok": "Tiktok lu",
- "website": "Website lu",
- "email": "Email lu",
- "gender": "Gender/Alat kelamin lu",
- "agama": "Agama lu",
- "tanggallahir": "Tanggal lahir lu",
- "umur": "Umur lu",
- "kelas": "Kelas lu",
- "hobi": "Hobi lu",
- "sifat": "Sifat lu",
- "tinggal": "Tempat tinggal lu",
- "suka": "Lu suka apa? ",
- "benci": "Lu benci apa? ",
- 
-  "login_di": "https://alphabot-api.herokuapp.com",
+ "login_di": "https://alphabot-api.herokuapp.com",
   "apikey_alpha": "APIKEY LU", 
   
   "login_di": "https://ronzxapis.herokuapp.com",
@@ -39,18 +22,10 @@
  
  "payment": {
     "qris": {
-      "link_nya": "Link gambar qris lu", 
-      "atas_nama": "Nama lu" 
+      "link_nya": "-", 
+      "atas_nama": "-" 
     },
     "dana": {
-      "nomer": "Nomor dana lu", 
+      "nomer": "-", 
       "atas_nama": "Nama lu" 
-    }},
-    
-  "pathQris": "./temp/media/qris.jpg", 
-  "pathCont": "./temp/media/contributor.jpg", 
-  "pathBc": "./temp/media/bc.jpg", 
-  "pathThumb": "./temp/media/logoNya.jpg", 
-  "pathThumb2": "./temp/media/logo.jpg", 
-  "pathMenfes": "./temp/media/menfes.jpg" 
-  }
+    }
